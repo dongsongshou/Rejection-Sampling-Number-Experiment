@@ -2,7 +2,7 @@ from sage.all import *
 import random
 
 sqrt_2pi = sqrt(2*pi)
-m, q, sigma = 4, 16, 2
+m, q, sigma = 4, 17, 2
 Sc = [1, -1, 2, 0]
 base = q / (sigma * sqrt_2pi)
 M_theory = float(base^m)
