@@ -3,8 +3,8 @@ We conducted a rejection sampling experiment for the article "Comments on “A N
 Readers can change the parameters to conduct their own experiments. The current code uses the Toy parameters (m=4, q=17, and sigma=2).
 
 Below are the code execution results:
-Theoretical M = 132.23;
-Experimental avg iterations: 160.3;
-Theoretical expectation: 132.2;
-Relative error: 21.3%.
+Theoretical M = 103.75;
+Experimental avg iterations: 88.4;
+Theoretical expectation: 103.8;
+Relative error: 14.8%.
 
